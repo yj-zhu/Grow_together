@@ -7,4 +7,4 @@
     * [价值](CHAPTER.03.1.md)
     * [韭菜](CHAPTER.04.1.md)
     * [割韭菜](CHAPTER.05.1.md)
-
+    * [公平](CHAPTER.06.1.md)
