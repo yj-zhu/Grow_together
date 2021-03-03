@@ -1,6 +1,5 @@
 ## 目录
 
-* [简介](README.md)
 * [李笑来box定投践行群指北](Chapter0.md)
     * [小白入群指南](CHAPTER.01.1.md)
     * [入群前必看书籍](CHAPTER.02.1.md)
