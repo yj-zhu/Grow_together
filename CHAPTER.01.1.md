@@ -1,4 +1,4 @@
->下载并注册Mixin<br>
+>1.下载并注册Mixin<br>
 一、下载 新生app<br>
 新生app就是Mixin的国内优化版，已针对国内网络进行优化，使用更流畅<br>
 (如已有Mixin，能正常使用和更新，也可不用更换新生大讲堂)<br>
@@ -10,3 +10,23 @@ https://www.firesbox.com/app/<br>
 ![image](https://user-images.githubusercontent.com/49971400/109798742-19fd6280-7c56-11eb-994c-eba791b288e0.png)<br>
 >2. 填写名字，然后点击进入首页，即注册成功<br>
 ![image](https://user-images.githubusercontent.com/49971400/109798775-21247080-7c56-11eb-8605-dd3d4e7f26f1.png)
+>2.加入践行群<br>
+>1. 在mixin首页右上角搜索框输入7000102069，点击【+添加机器人】，然后点击对话框<br>
+![image](https://user-images.githubusercontent.com/49971400/109799447-09012100-7c57-11eb-8cb6-5b0ebb4049e3.png)
+>>2. 先授权，点击【加入群组】，再点击【确认】<br>
+![image](https://user-images.githubusercontent.com/49971400/109799487-13bbb600-7c57-11eb-9096-703c174057b6.png)
+>可使用以下邀请码<br>
+>E4871TB7K1<br>
+>3. 长按复制输入邀请码后，点击【使用邀请码】<br>
+![image](https://user-images.githubusercontent.com/49971400/109799544-1fa77800-7c57-11eb-8f36-b75a6b823df6.png)
+>• 如果你有足够群费的比特币，点击下方的【支付】，输入6位支付密码，即可入群<br>
+>• 如果你没有比特币，可在此直接购买，具体步骤如下：<br>
+>   点击【如果你没有BTC，轻按此处购买】，首次购买需要实名认证，点击【前往实名认证】<br>
+>准备好身份证，按步骤操作，即可轻松通过认证<br>
+![image](https://user-images.githubusercontent.com/49971400/109799582-26ce8600-7c57-11eb-8982-225e0d0aa944.png)
+>实名认证通过后，再次点击【如果你没有BTC，轻按此处购买】，因为比特币价格实时波动，为避免因购入的比特币不足而无法进群，建议按app默认金额购买，点击【交易】<br>
+![image](https://user-images.githubusercontent.com/49971400/109799607-2df59400-7c57-11eb-8274-26c217ee58c7.png)
+>选择你最熟悉的支付方式，复制用户名、账户、支付金额，然后打开对应的支付APP给卖方转账，转账成功后点击【已转账，请求放币】，稍等5-15分钟，右上角提示【交易成功】，说明币已经存放到你的mixin钱包了！<br>
+>• 请注意：一定要先给卖方转账，再点【已转账，请求放币】<br>
+![image](https://user-images.githubusercontent.com/49971400/109799622-33eb7500-7c57-11eb-815c-3b833ec4a732.png)
+>再返回群支付页面，点击【支付】，然后输入6位支付密码，即可成功加入《BOX定投践行群》，从此开启你的财富自由之路！<br>
