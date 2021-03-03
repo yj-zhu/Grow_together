@@ -13,3 +13,5 @@
    * [精彩课程分享（每日更新中）](CHAPTER.02.3.md)
    * [群成员有话说](CHAPTER.02.4.md)
    * [联系我](CHAPTER.02.5.md)
+
+语雀链接：https://www.yuque.com/yrjiaoyu
