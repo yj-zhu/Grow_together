@@ -14,4 +14,4 @@
    * [群成员有话说](CHAPTER.02.4.md)
    * [联系我](CHAPTER.02.5.md)
 
-语雀链接：https://www.yuque.com/yrjiaoyu
+更多资料查看语雀链接：https://www.yuque.com/yrjiaoyu
