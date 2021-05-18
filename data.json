@@ -1,7 +1,5 @@
 {
     "data_pie" : [
-        {"value":235, "name":"视频广告"},
-        {"price":"2.214129","timestamp":1562112000},
-        {"price":"2.356284","timestamp":1562198400}
+        {"value":235, "name":"视频广告"}
         ]
 }
