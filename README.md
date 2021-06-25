@@ -1,4 +1,4 @@
-![](ZHU Price与Date.png)
+![](BOX Price与Date.png)
 
 0. [box是什么？](Chapter0.md)
 1. [如何加入社群？](CHAPTER.01.1.md)
