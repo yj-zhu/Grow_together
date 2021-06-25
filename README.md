@@ -1,3 +1,3 @@
-## 种竹投资教育 ZHU币
+## 种竹投资教育etf
 
 ![](ZHU Price与Date.png)
