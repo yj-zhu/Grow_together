@@ -2,3 +2,4 @@
 
 ![alt 属性文本](https://github.com/yj-zhu/Grow_together/blob/master/ZHU%20Price%E4%B8%8EDate.png)
 
+<img src="https://github.com/yj-zhu/Grow_together/blob/master/ZHU%20Price%E4%B8%8EDate.png" width="50%">
