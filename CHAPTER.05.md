@@ -190,7 +190,7 @@ EOS 从这个角度望过去，就是个面向区块链企业的平台。而 Mix
 以下图示，是从 2019 年 7 月 12 日开始算起的 BOX、BTC、EOS、XIN 的价格变化以及定投 BOX 收益的变化：
 
 
-![box-historical-price-change.png](https://cdn.nlark.com/yuque/0/2020/png/1633504/1593513030922-70a5a7d6-7f05-45a5-94da-5485e1ac1349.png#align=left&display=inline&height=1000&margin=%5Bobject%20Object%5D&name=box-historical-price-change.png&originHeight=1000&originWidth=2000&size=246065&status=done&style=none&width=2000)
+![BOX Price](1593513030922-70a5a7d6-7f05-45a5-94da-5485e1ac1349.png)
 
 
 > 注：[点击这个链接查看具体数据](https://github.com/xiaolai/regular-investing-in-box/tree/master/data)
