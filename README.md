@@ -1,4 +1,4 @@
-![test](test.pdf){:height="100%" width="100%"}<br>
+![test](test.pdf){:height="500px" width="500px"}<br>
 <div align='center' ><font size='0.5'>数据截至20210627，每周更新</font></div><br>
 
 0. [box是什么？](Chapter0.md)
