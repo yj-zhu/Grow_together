@@ -1,4 +1,5 @@
 ![BOX Price](BOX Price与Date.png)
+![hustlin_erd](test.pdf)
 <div align='center' ><font size='1'>数据截至20210627，每周更新</font></div><br>
 
 0. [box是什么？](Chapter0.md)
