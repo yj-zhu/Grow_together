@@ -1,4 +1,4 @@
-![test](test.pdf  =10000x10000)<br>
+![test](test.pdf =1000x1000)<br>
 <div align='center' ><font size='0.5'>数据截至20210627，每周更新</font></div><br>
 
 0. [box是什么？](Chapter0.md)
