@@ -5,11 +5,16 @@
 <html style="height: 100%">
     <head>
         <meta charset="utf-8">
+        title: {
+        text: 'yr定投教育',
+        left: '30%',
+        top: '5%',
+        }
         <meta name="viewport" content="width=device-width, initial-scale=1" />
     </head>
     <body style="height: 100%; margin: 0">
         <div id="container" style="height: 100%"></div>
-        <a href="Chapter0.html">1、box是什么？</a>
+        <a href="Chapter0.html" left='5%' bottom='30%'>1、box是什么？</a>
 
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
         <!-- Uncomment this line if you want to dataTool extension
@@ -42,7 +47,7 @@ var option;
 option = {
     title: {
         text: 'yr定投教育',
-        left: '40%',
+        left: '30%',
         top: '5%',
     },
     tooltip: {
@@ -56,7 +61,7 @@ option = {
     },
     legend: {
         data: ['yr定投总收益', 'yr定投金额', 'yr定投收益率'],
-        top: '20%'
+        top: '10%'
     },
     toolbox: {
         feature: {
@@ -64,10 +69,10 @@ option = {
         }
     },
     grid: {
-        left: '1%',
-        right: '1%',
+        left: '3%',
+        right: '5%',
         bottom: '20%',
-        top: '40%',
+        top: '20%',
         containLabel: true
     },
     xAxis: [
