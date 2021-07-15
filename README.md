@@ -5,6 +5,4 @@
 4. [box定投标的选择过程](CHAPTER.05.md)
 5. [yr定投教育-每个人都可以或应该富有](CHAPTER.06.md)
 
-<div align='center' ><font size='0.5'>数据截至20210627，每周更新</font></div>
-
 
